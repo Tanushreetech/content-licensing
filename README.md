@@ -107,7 +107,7 @@ Blockchain → Stores License → Enables Verification
 
 ## 👩‍💻 Author
 
-**Aindrila Bera**
+**Tanushree Bera**
 
 ---
 
